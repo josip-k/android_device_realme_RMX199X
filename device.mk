@@ -5,3 +5,5 @@
 #
 
 DEVICE_PATH := device/realme/RMX199X
+
+include $(DEVICE_PATH)/device/*.mk
